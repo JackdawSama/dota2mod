@@ -1,0 +1,8 @@
+dota2mod_cl2
+{
+	material materials/overviews/dota2mod_cl2.vmat
+	pos_x -4977
+	pos_y 3136
+	scale 8.000
+}
+
